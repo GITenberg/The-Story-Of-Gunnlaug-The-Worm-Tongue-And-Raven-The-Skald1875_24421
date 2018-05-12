@@ -31,6 +31,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24421#The-Story-Of-Gunnlaug-The-Worm-Tongue-And-Raven-The-Skald1875
 gutenberg_bookshelf: Folklore
 gutenberg_issued: '2008-01-25'
 gutenberg_type: Text
